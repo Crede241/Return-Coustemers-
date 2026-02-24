@@ -1,4 +1,4 @@
-🧠 Iris — Multilingual Sentiment Analysis App
+ Multilingual Sentiment Analysis App
 
 Iris est une application web développée avec Streamlit permettant d’analyser automatiquement des retours clients en français et en anglais grâce à un modèle NLP basé sur BERT.
 
